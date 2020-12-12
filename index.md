@@ -6,7 +6,7 @@ By Zhenkun Wang
 
 ## Assigment 5 Static Visualization Assignment
 
-1. Explore all accounts. Create visualizations that combine or these account characteristics:
+- Explore all accounts. Create visualizations that combine or these account characteristics:
 
 Whether an account has a credit card or not
 
@@ -16,19 +16,19 @@ The average balance for the account
 
 [task1](task1.html)
 
-2. What is the distribution of all loans and what are their characteristics?
+- What is the distribution of all loans and what are their characteristics?
 
 [task2](task2.html)
 
-3. Is there a relationship between a good or bad loan and the time between an account is opened an the loan is created? Is there a specific set of accounts that seem to be at higher or lower risk of defaulting?
+- Is there a relationship between a good or bad loan and the time between an account is opened an the loan is created? Is there a specific set of accounts that seem to be at higher or lower risk of defaulting?
 
 [task3](task3.html)
 
-4. For the account with the highest number of transactions, make a time series line plot for the behavior of the account over time, including all debits and credits, the different methods, and the with the different categories.
+- For the account with the highest number of transactions, make a time series line plot for the behavior of the account over time, including all debits and credits, the different methods, and the with the different categories.
 
 [task4](task4.html)
 
-5. Explore the validity of the data for the case whether or not an account has a credit card and whether or not they have associated credit card transactions. Is there anything worth noting?
+- Explore the validity of the data for the case whether or not an account has a credit card and whether or not they have associated credit card transactions. Is there anything worth noting?
 
 [task5](task5.jpg)
 
