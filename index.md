@@ -41,7 +41,7 @@ I visualized historical US election data and unemployment rates across US counti
 I will visualize the flow of people between different states in the United States over the period of one year, using network graphs.<br>
 In the assignment 7, I created a sankey newwork plot to show the top 10 Migration Destinations of NY, TX, VA and FL.<br>
 
-[Assignment7](a7.html)
+[Assignment7](network.html)
 
 ## Project
 The project aims to explore the relationship between the COVID-19 and the US airline traffic
