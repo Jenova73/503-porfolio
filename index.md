@@ -51,8 +51,6 @@ visualization of the flow of people between different states in the United State
 
 The goal of this project is to build a visual narrative in the form of a flexdashboard which shows the sea coral detections.
 
-[project](final_project.html)
-
 The main components:
 
 1.EDA exploring the statistical and distribution of the data
@@ -64,3 +62,5 @@ The main components:
 4.Time Series plot showing the trend over time
 
 5.Word Cloud plot
+
+[project](final_project.html)
