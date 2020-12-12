@@ -1,7 +1,7 @@
 
 
 # ANLY 503 Porfolio
-This is Yuzheng Xie and welcome to my website for ANLY 503.
+Zhenkun Wang
 
 
 ## Assigment 5
@@ -28,25 +28,25 @@ The tasks includes
 
 5.Explore the validity of the data for the case whether or not an account has a credit card and whether or not they have associated credit card transactions.
 
-[task5](task5_1.jpg)
+[task5](task5.jpg)
 
 
 ## Assignment 6 
 This assignment is the Geospatial Visualization Assignment.
 I visualized historical US election data and unemployment rates across US counties using choropleths in this assignment.
 
-[Assignment6](geospatial.html)
+[Assignment6](a6.html)
 
 ## Assignment 7
 I will visualize the flow of people between different states in the United States over the period of one year, using network graphs.<br>
 In the assignment 7, I created a sankey newwork plot to show the top 10 Migration Destinations of NY, TX, VA and FL.<br>
 
-[Assignment7](A7networks.html)
+[Assignment7](a7.html)
 
 ## Project
 The project aims to explore the relationship between the COVID-19 and the US airline traffic
 
-[project](projectxyz.html)
+[project](final_project.html)
 
 The main components:
 
