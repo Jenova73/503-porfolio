@@ -45,10 +45,11 @@ ii. The unemployment rate in each county for each of the three election years (2
 
 visualization of the flow of people between different states in the United States over the period of one year by network graphs
 
-[Assignment7](network.html)
+[Assignment7](networks.html)
 
 ## Project
-The project aims to explore the relationship between the COVID-19 and the US airline traffic
+
+The goal of this project is to build a visual narrative in the form of a flexdashboard which shows the sea coral detections.
 
 [project](final_project.html)
 
@@ -58,8 +59,8 @@ The main components:
 
 2.Map showing the the geographical information
 
-3.Network showing the traffic volume of different origin and destination
+3.Network showing the depth of each corals
 
 4.Time Series plot showing the trend over time
 
-5.Word Cloud plot of the 2020 tweets data
+5.Word Cloud plot
