@@ -17,6 +17,7 @@ The average balance for the account
 [task1](task1.html)
 
 2. What is the distribution of all loans and what are their characteristics?
+
 [task2](task2.html)
 
 3. Is there a relationship between a good or bad loan and the time between an account is opened an the loan is created? Is there a specific set of accounts that seem to be at higher or lower risk of defaulting?
@@ -32,15 +33,17 @@ The average balance for the account
 [task5](task5.jpg)
 
 
-## Assignment 6 
-This assignment is the Geospatial Visualization Assignment.
-I visualized historical US election data and unemployment rates across US counties using choropleths in this assignment.
+## Assignment 6 Geospatial Visualization 
+
+i. The proportion of the vote won by your chosen candidate in each county for each of the three elections, based on a map of US counties represented in the shapefiles mentioned above
+
+ii. The unemployment rate in each county for each of the three election years (2008, 2012, 2016) using the US map of counties based on the same shapefiles as above. 
 
 [Assignment6](a6.html)
 
-## Assignment 7
-I will visualize the flow of people between different states in the United States over the period of one year, using network graphs.<br>
-In the assignment 7, I created a sankey newwork plot to show the top 10 Migration Destinations of NY, TX, VA and FL.<br>
+## Assignment 7 Network Graph
+
+visualization of the flow of people between different states in the United States over the period of one year by network graphs
 
 [Assignment7](network.html)
 
