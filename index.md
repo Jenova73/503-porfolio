@@ -1,7 +1,7 @@
 
 
 # ANLY 503 Porfolio
-Zhenkun Wang
+By Zhenkun Wang
 
 
 ## Assigment 5 Static Visualization Assignment
